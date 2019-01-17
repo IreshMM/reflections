@@ -11,3 +11,9 @@ clone is used to clone a branch (along with all the reachable
 commits) to another location and a branch is a label given for a
 specific commit (most of the time it is a leaf of the tree made up
 of commits)
+
+What is the benefit of having a copy of the last known state of the
+remote stored locally?
+
+We can have it separately to access offline when needed without
+merging onto the local branch.
