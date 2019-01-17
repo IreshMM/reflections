@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to
+do it?
+
+It initializes the current directory as a git repository. I just
+need to be inside some directory with read/write permissions.
+
+How is the staging area different from the working directory and
+the repository? What value do you think it offers?
+
+How is the staging area different from the working directory and
+the repository? What value do you think it offers?
+
+It gives us the advantage of bundle a set changes that makes a
+logical change and then make a commit. It's sort of like a
+preview of what is to be commited.
