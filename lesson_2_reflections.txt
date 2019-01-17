@@ -13,3 +13,22 @@ the repository? What value do you think it offers?
 It gives us the advantage of bundle a set changes that makes a
 logical change and then make a commit. It's sort of like a
 preview of what is to be commited.
+
+How can you use the staging area to make sure you have one commit
+per logical change?
+
+Because I can bundle all changes to staging area first and make a
+single commit for all of them.
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+When we need to work and keep on multiple versions of repository
+simultaneously, when we need to try an experimental change that we
+are not sure would work and we can identify commits by human readable
+names.
+
+How do the diagrams help you visualize the branch structure?
+
+We can see entire linear history of branches and of course they
+branch out.
