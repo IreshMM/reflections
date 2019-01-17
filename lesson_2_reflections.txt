@@ -32,3 +32,16 @@ How do the diagrams help you visualize the branch structure?
 
 We can see entire linear history of branches and of course they
 branch out.
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+It is just that taking the union of changes of two branches since the
+common commit and make new commit out of those. So the new commit will
+contain changes from both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+Automatic merging is convienient while manual merging is necessary and
+it provides more control over what to keep.
