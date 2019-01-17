@@ -45,3 +45,9 @@ merges manually?
 
 Automatic merging is convienient while manual merging is necessary and
 it provides more control over what to keep.
+
+Why might you want to always pull changes manually rather than having
+Git automatically stay up-to-date with your remote repository?
+
+Sometimes we may need not to pull until we have finished some work
+or if someone else is pushing to same branch conflicts are possible.
