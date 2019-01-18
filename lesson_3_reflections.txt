@@ -17,3 +17,10 @@ remote stored locally?
 
 We can have it separately to access offline when needed without
 merging onto the local branch.
+
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+Using some media to share files. Using git and github takes it to a
+whole new level. Hard to learn, but once learnt we can do so much
+than just sharing files.
